@@ -1,0 +1,26 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Anonymous\bin\Debug\Hello_Anonymous.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Anonymous\bin\Debug\Hello_Anonymous.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Anonymous\bin\Debug\Hello_Anonymous.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Anonymous\obj\Debug\Hello_Anonymous.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Anonymous\obj\Debug\Hello_Anonymous.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Anonymous\obj\Debug\Hello_Anonymous.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp\Hello_Anonymous\bin\Debug\Hello_Anonymous.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp\Hello_Anonymous\obj\Debug\Hello_Anonymous.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp\Hello_Anonymous\obj\Debug\Hello_Anonymous.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\bin\Debug\Hello_Anonymous.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\obj\Debug\Hello_Anonymous.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\obj\Debug\Hello_Anonymous.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\bin\Debug\Hello_Anonymous.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\obj\Debug\Hello_Anonymous.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\obj\Debug\Hello_Anonymous.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\bin\Debug\Hello_Anonymous.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\bin\Debug\Hello_Anonymous.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\obj\Debug\Hello_Anonymous.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Delegates_Events_Lambdas_lect_v1\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\bin\Debug\Hello_Anonymous.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Delegates_Events_Lambdas_lect_v1\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\obj\Debug\Hello_Anonymous.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Delegates_Events_Lambdas_lect_v1\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\obj\Debug\Hello_Anonymous.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\bin\Debug\Hello_Anonymous.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\bin\Debug\Hello_Anonymous.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\bin\Debug\Hello_Anonymous.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\obj\Debug\Hello_Anonymous.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Anonymous\obj\Debug\Hello_Anonymous.pdb

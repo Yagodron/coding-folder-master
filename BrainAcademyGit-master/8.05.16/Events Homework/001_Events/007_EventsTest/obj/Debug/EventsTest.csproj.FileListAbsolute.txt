@@ -1,0 +1,2 @@
+D:\Desktop\CS_Essential_RU\013_Events\001_Events\007_EventsTest\bin\Debug\007_EventsTest.exe.config
+D:\Desktop\CS_Essential_RU\013_Events\001_Events\007_EventsTest\bin\Debug\EventsTest.exe.config

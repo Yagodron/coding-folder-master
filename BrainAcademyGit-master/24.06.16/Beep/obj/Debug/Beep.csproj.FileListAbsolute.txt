@@ -1,0 +1,6 @@
+D:\курсы\24.06.16\Beep\bin\Debug\Beep.exe.config
+D:\курсы\24.06.16\Beep\bin\Debug\Beep.exe
+D:\курсы\24.06.16\Beep\bin\Debug\Beep.pdb
+D:\курсы\24.06.16\Beep\obj\Debug\Beep.csprojResolveAssemblyReference.cache
+D:\курсы\24.06.16\Beep\obj\Debug\Beep.exe
+D:\курсы\24.06.16\Beep\obj\Debug\Beep.pdb

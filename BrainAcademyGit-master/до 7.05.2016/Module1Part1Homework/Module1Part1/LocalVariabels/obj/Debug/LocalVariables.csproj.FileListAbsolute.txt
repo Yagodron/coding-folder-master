@@ -1,0 +1,5 @@
+B:\BrainAcademy\Block1\Solution\Module1Part1\LocalVariabels\bin\Debug\LocalVariabels.exe.config
+B:\BrainAcademy\Block1\Solution\Module1Part1\LocalVariabels\bin\Debug\LocalVariabels.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\LocalVariabels\bin\Debug\LocalVariabels.pdb
+B:\BrainAcademy\Block1\Solution\Module1Part1\LocalVariabels\obj\Debug\LocalVariabels.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\LocalVariabels\obj\Debug\LocalVariabels.pdb

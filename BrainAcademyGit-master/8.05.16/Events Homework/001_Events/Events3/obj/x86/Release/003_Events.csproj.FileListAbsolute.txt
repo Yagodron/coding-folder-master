@@ -1,0 +1,4 @@
+F:\CBS\C#\CS_Essential_RU\013_Events\001_Events\Events3\bin\Release\Events3.exe
+F:\CBS\C#\CS_Essential_RU\013_Events\001_Events\Events3\bin\Release\Events3.pdb
+F:\CBS\C#\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Release\Events3.exe
+F:\CBS\C#\CS_Essential_RU\013_Events\001_Events\Events3\obj\x86\Release\Events3.pdb

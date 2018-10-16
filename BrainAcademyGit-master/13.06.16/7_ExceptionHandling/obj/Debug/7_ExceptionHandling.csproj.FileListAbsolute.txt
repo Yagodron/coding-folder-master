@@ -1,0 +1,6 @@
+D:\курсы\13.06.16\7_ExceptionHandling\bin\Debug\7_ExceptionHandling.exe.config
+D:\курсы\13.06.16\7_ExceptionHandling\bin\Debug\7_ExceptionHandling.exe
+D:\курсы\13.06.16\7_ExceptionHandling\bin\Debug\7_ExceptionHandling.pdb
+D:\курсы\13.06.16\7_ExceptionHandling\obj\Debug\7_ExceptionHandling.csprojResolveAssemblyReference.cache
+D:\курсы\13.06.16\7_ExceptionHandling\obj\Debug\7_ExceptionHandling.exe
+D:\курсы\13.06.16\7_ExceptionHandling\obj\Debug\7_ExceptionHandling.pdb

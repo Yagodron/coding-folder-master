@@ -1,0 +1,6 @@
+D:\курсы\24.06.16\word_in_text\bin\Debug\word_in_text.exe.config
+D:\курсы\24.06.16\word_in_text\bin\Debug\word_in_text.exe
+D:\курсы\24.06.16\word_in_text\bin\Debug\word_in_text.pdb
+D:\курсы\24.06.16\word_in_text\obj\Debug\word_in_text.exe
+D:\курсы\24.06.16\word_in_text\obj\Debug\word_in_text.pdb
+D:\курсы\24.06.16\word_in_text\obj\Debug\word_in_text.csprojResolveAssemblyReference.cache

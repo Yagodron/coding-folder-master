@@ -1,0 +1,10 @@
+c:\users\kostya\documents\visual studio 2015\Projects\Convertor\Convertor\bin\Debug\Convertor.exe.config
+c:\users\kostya\documents\visual studio 2015\Projects\Convertor\Convertor\bin\Debug\Convertor.exe
+c:\users\kostya\documents\visual studio 2015\Projects\Convertor\Convertor\bin\Debug\Convertor.pdb
+c:\users\kostya\documents\visual studio 2015\Projects\Convertor\Convertor\obj\Debug\Convertor.csprojResolveAssemblyReference.cache
+c:\users\kostya\documents\visual studio 2015\Projects\Convertor\Convertor\obj\Debug\Convertor.Form1.resources
+c:\users\kostya\documents\visual studio 2015\Projects\Convertor\Convertor\obj\Debug\Convertor.Properties.Resources.resources
+c:\users\kostya\documents\visual studio 2015\Projects\Convertor\Convertor\obj\Debug\Convertor.csproj.GenerateResource.Cache
+c:\users\kostya\documents\visual studio 2015\Projects\Convertor\Convertor\obj\Debug\Convertor.exe
+c:\users\kostya\documents\visual studio 2015\Projects\Convertor\Convertor\obj\Debug\Convertor.pdb
+C:\Users\Kostya\Documents\Visual Studio 2015\Projects\Convertor\Convertor\bin\Debug\xNet.dll

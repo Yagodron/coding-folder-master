@@ -1,0 +1,5 @@
+B:\BrainAcademy\Block1\Solution\Module1Part1\FlagFormatting\bin\Debug\FlagFormatting.exe.config
+B:\BrainAcademy\Block1\Solution\Module1Part1\FlagFormatting\bin\Debug\FlagFormatting.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\FlagFormatting\bin\Debug\FlagFormatting.pdb
+B:\BrainAcademy\Block1\Solution\Module1Part1\FlagFormatting\obj\Debug\FlagFormatting.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\FlagFormatting\obj\Debug\FlagFormatting.pdb

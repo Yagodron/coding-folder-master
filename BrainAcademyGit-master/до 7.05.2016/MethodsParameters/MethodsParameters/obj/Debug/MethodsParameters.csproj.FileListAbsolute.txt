@@ -1,0 +1,10 @@
+c:\users\svf\documents\visual studio 2013\Projects\MethodsParameters\MethodsParameters\bin\Debug\MethodsParameters.exe.config
+c:\users\svf\documents\visual studio 2013\Projects\MethodsParameters\MethodsParameters\bin\Debug\MethodsParameters.exe
+c:\users\svf\documents\visual studio 2013\Projects\MethodsParameters\MethodsParameters\bin\Debug\MethodsParameters.pdb
+c:\users\svf\documents\visual studio 2013\Projects\MethodsParameters\MethodsParameters\obj\Debug\MethodsParameters.csprojResolveAssemblyReference.cache
+c:\users\svf\documents\visual studio 2013\Projects\MethodsParameters\MethodsParameters\obj\Debug\MethodsParameters.exe
+c:\users\svf\documents\visual studio 2013\Projects\MethodsParameters\MethodsParameters\obj\Debug\MethodsParameters.pdb
+D:\курсы\MethodsParameters\MethodsParameters\bin\Debug\MethodsParameters.exe.config
+D:\курсы\MethodsParameters\MethodsParameters\obj\Debug\MethodsParameters.exe
+D:\курсы\MethodsParameters\MethodsParameters\obj\Debug\MethodsParameters.pdb
+D:\курсы\MethodsParameters\MethodsParameters\obj\Debug\MethodsParameters.csprojResolveAssemblyReference.cache

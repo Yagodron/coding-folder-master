@@ -1,0 +1,14 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\AttributedCarLibrary\bin\Debug\AttributedCarLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\AttributedCarLibrary\obj\Debug\AttributedCarLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\BirdSpeciesAttribute\obj\Debug\BirdsSpeciesAttribute.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\BirdSpeciesAttribute\bin\Debug\BirdSpeciesLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\BirdSpeciesAttribute\bin\Debug\BirdSpeciesLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\BirdSpeciesAttribute\obj\Debug\BirdSpeciesLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\BirdSpeciesAttribute\obj\Debug\BirdSpeciesLibrary.pdb
+C:\Users\win7\Desktop\Group_290915\221015\Lecture__1_5_2\BirdSpeciesAttribute\bin\Debug\BirdSpeciesLibrary.dll
+C:\Users\win7\Desktop\Group_290915\221015\Lecture__1_5_2\BirdSpeciesAttribute\bin\Debug\BirdSpeciesLibrary.pdb
+C:\Users\win7\Desktop\Group_290915\221015\Lecture__1_5_2\BirdSpeciesAttribute\obj\Debug\BirdsSpeciesAttribute.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Group_290915\221015\Lecture__1_5_2\BirdSpeciesAttribute\obj\Debug\BirdSpeciesLibrary.dll
+C:\Users\win7\Desktop\Group_290915\221015\Lecture__1_5_2\BirdSpeciesAttribute\obj\Debug\BirdSpeciesLibrary.pdb

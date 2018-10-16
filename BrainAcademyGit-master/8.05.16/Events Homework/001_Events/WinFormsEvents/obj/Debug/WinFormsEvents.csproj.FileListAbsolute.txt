@@ -1,0 +1,18 @@
+C:\Users\David\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\bin\Debug\WinFormsEvents.exe.config
+C:\Users\David\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\bin\Debug\WinFormsEvents.exe
+C:\Users\David\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\bin\Debug\WinFormsEvents.pdb
+C:\Users\David\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.Form1.resources
+C:\Users\David\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.Properties.Resources.resources
+C:\Users\David\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.exe
+C:\Users\David\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.pdb
+D:\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\bin\Debug\WinFormsEvents.exe.config
+D:\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.exe
+D:\Desktop\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.pdb
+C:\Users\David\Documents\Courses\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\bin\Debug\WinFormsEvents.exe.config
+C:\Users\David\Documents\Courses\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.exe
+C:\Users\David\Documents\Courses\CS_Essential_RU\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.pdb
+C:\Users\Student\Desktop\CS_Essential II part\013_Events\001_Events\WinFormsEvents\bin\Debug\WinFormsEvents.exe.config
+C:\Users\Student\Desktop\CS_Essential II part\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.exe
+C:\Users\Student\Desktop\CS_Essential II part\013_Events\001_Events\WinFormsEvents\obj\Debug\WinFormsEvents.pdb

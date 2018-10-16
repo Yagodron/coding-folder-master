@@ -1,0 +1,5 @@
+B:\BrainAcademy\Block1\Solution\Module1Part1\StringFormat\bin\Debug\StringFormat.exe.config
+B:\BrainAcademy\Block1\Solution\Module1Part1\StringFormat\bin\Debug\StringFormat.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\StringFormat\bin\Debug\StringFormat.pdb
+B:\BrainAcademy\Block1\Solution\Module1Part1\StringFormat\obj\Debug\StringFormat.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\StringFormat\obj\Debug\StringFormat.pdb

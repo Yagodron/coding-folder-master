@@ -1,0 +1,15 @@
+D:\курсы\BooksHierarchy\bin\Debug\BooksHierarchy.exe.config
+D:\курсы\BooksHierarchy\obj\Debug\BooksHierarchy.csprojResolveAssemblyReference.cache
+D:\курсы\BooksHierarchy\obj\Debug\MainWindow.baml
+D:\курсы\BooksHierarchy\obj\Debug\MainWindow.g.cs
+D:\курсы\BooksHierarchy\obj\Debug\App.g.cs
+D:\курсы\BooksHierarchy\obj\Debug\BooksHierarchy_MarkupCompile.cache
+D:\курсы\BooksHierarchy\obj\Debug\BooksHierarchy.g.resources
+D:\курсы\BooksHierarchy\obj\Debug\BooksHierarchy.Properties.Resources.resources
+D:\курсы\BooksHierarchy\obj\Debug\BooksHierarchy.csproj.GenerateResource.Cache
+D:\курсы\BooksHierarchy\bin\Debug\BooksHierarchy.exe
+D:\курсы\BooksHierarchy\bin\Debug\BooksHierarchy.pdb
+D:\курсы\BooksHierarchy\obj\Debug\BooksHierarchy.exe
+D:\курсы\BooksHierarchy\obj\Debug\BooksHierarchy.pdb
+D:\курсы\BooksHierarchy\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\курсы\BooksHierarchy\obj\Debug\BooksHierarchy_MarkupCompile.lref

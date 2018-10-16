@@ -1,0 +1,18 @@
+c:\users\msibook\documents\visual studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\bin\Debug\Hello_Debug_Trace.exe.config
+c:\users\msibook\documents\visual studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\bin\Debug\Hello_Debug_Trace.exe
+c:\users\msibook\documents\visual studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\bin\Debug\Hello_Debug_Trace.pdb
+c:\users\msibook\documents\visual studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.exe
+c:\users\msibook\documents\visual studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.pdb
+C:\Users\MsiBook\documents\visual studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\bin\Debug\Hello_Debug_Trace.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\bin\Debug\Hello_Debug_Trace.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\bin\Debug\Hello_Debug_Trace.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\Group_290915\221015\Lecture__1_5_2\Hello_Debug_Trace\Hello_Debug_Trace\bin\Debug\Hello_Debug_Trace.exe.config
+C:\Users\win7\Desktop\Group_290915\221015\Lecture__1_5_2\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.exe
+C:\Users\win7\Desktop\Group_290915\221015\Lecture__1_5_2\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.pdb
+D:\курсы\29.06.16\Hello_Debug_Trace\Hello_Debug_Trace\bin\Debug\Hello_Debug_Trace.exe.config
+D:\курсы\29.06.16\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.exe
+D:\курсы\29.06.16\Hello_Debug_Trace\Hello_Debug_Trace\obj\Debug\Hello_Debug_Trace.pdb

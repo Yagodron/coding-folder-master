@@ -1,0 +1,6 @@
+D:\курсы\29.06.16\Reflection\bin\Debug\Reflection.exe.config
+D:\курсы\29.06.16\Reflection\bin\Debug\Reflection.exe
+D:\курсы\29.06.16\Reflection\bin\Debug\Reflection.pdb
+D:\курсы\29.06.16\Reflection\obj\Debug\Reflection.exe
+D:\курсы\29.06.16\Reflection\obj\Debug\Reflection.pdb
+D:\курсы\29.06.16\Reflection\obj\Debug\Reflection.csprojResolveAssemblyReference.cache

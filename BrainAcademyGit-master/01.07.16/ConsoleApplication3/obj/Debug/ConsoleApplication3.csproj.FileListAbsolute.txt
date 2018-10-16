@@ -1,0 +1,5 @@
+D:\курсы\01.07.16\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\курсы\01.07.16\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\курсы\01.07.16\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\курсы\01.07.16\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\курсы\01.07.16\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

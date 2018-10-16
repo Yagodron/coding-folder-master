@@ -1,0 +1,24 @@
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\bin\Debug\Airplane_v3.exe.config
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\obj\Debug\Airplane_v3.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\obj\Debug\Airplane_v3.pdb
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\bin\Debug\Airplane_v3.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\bin\Debug\Airplane_v3.pdb
+D:\курсы\Airplane_v4\Airplane_v3\bin\Debug\Airplane_v3.exe.config
+D:\курсы\Airplane_v4\Airplane_v3\obj\Debug\Airplane_v3.exe
+D:\курсы\Airplane_v4\Airplane_v3\obj\Debug\Airplane_v3.pdb
+D:\курсы\Airplane_v4\Airplane_v3\bin\Debug\Airplane_v3.exe
+D:\курсы\Airplane_v4\Airplane_v3\bin\Debug\Airplane_v3.pdb
+D:\курсы\Airplane_v4\Airplane_v3\obj\Debug\Airplane_v4.csprojResolveAssemblyReference.cache
+D:\курсы\BrainAcademyGit\AirplaneProject\Airplane_v3\bin\Debug\Airplane_v3.exe.config
+D:\курсы\BrainAcademyGit\AirplaneProject\Airplane_v3\obj\Debug\Airplane_v3.exe
+D:\курсы\BrainAcademyGit\AirplaneProject\Airplane_v3\obj\Debug\Airplane_v3.pdb
+D:\курсы\AirplaneProject\Airplane_v3\bin\Debug\Airplane_v3.exe.config
+D:\курсы\AirplaneProject\Airplane_v3\obj\Debug\Airplane_v3.exe
+D:\курсы\AirplaneProject\Airplane_v3\obj\Debug\Airplane_v3.pdb
+D:\курсы\AirplaneProject\Airplane_v3\obj\Debug\Airplane_v4.csprojResolveAssemblyReference.cache
+D:\курсы\AirplaneProject\Airplane_v3\bin\Debug\Airplane_v3.exe
+D:\курсы\AirplaneProject\Airplane_v3\bin\Debug\Airplane_v3.pdb
+D:\курсы\AirplaneProject\Airplane_v3\bin\Debug\EntityFramework.dll
+D:\курсы\AirplaneProject\Airplane_v3\bin\Debug\EntityFramework.SqlServer.dll
+D:\курсы\AirplaneProject\Airplane_v3\bin\Debug\EntityFramework.xml
+D:\курсы\AirplaneProject\Airplane_v3\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,6 @@
+D:\курсы\15.06.2016\8_CalcDel\bin\Debug\8_CalcDel.exe.config
+D:\курсы\15.06.2016\8_CalcDel\bin\Debug\8_CalcDel.exe
+D:\курсы\15.06.2016\8_CalcDel\bin\Debug\8_CalcDel.pdb
+D:\курсы\15.06.2016\8_CalcDel\obj\Debug\8_CalcDel.csprojResolveAssemblyReference.cache
+D:\курсы\15.06.2016\8_CalcDel\obj\Debug\8_CalcDel.exe
+D:\курсы\15.06.2016\8_CalcDel\obj\Debug\8_CalcDel.pdb

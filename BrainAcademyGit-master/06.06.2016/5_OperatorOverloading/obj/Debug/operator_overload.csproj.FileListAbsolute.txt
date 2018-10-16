@@ -1,0 +1,6 @@
+D:\курсы\06.06.2016\operator_overload\bin\Debug\operator_overload.exe.config
+D:\курсы\06.06.2016\operator_overload\obj\Debug\operator_overload.csprojResolveAssemblyReference.cache
+D:\курсы\06.06.2016\operator_overload\bin\Debug\operator_overload.exe
+D:\курсы\06.06.2016\operator_overload\bin\Debug\operator_overload.pdb
+D:\курсы\06.06.2016\operator_overload\obj\Debug\operator_overload.exe
+D:\курсы\06.06.2016\operator_overload\obj\Debug\operator_overload.pdb

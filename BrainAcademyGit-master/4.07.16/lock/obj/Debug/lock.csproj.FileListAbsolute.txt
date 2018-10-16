@@ -1,0 +1,5 @@
+D:\курсы\4.07.16\lock\bin\Debug\@lock.exe.config
+D:\курсы\4.07.16\lock\bin\Debug\@lock.exe
+D:\курсы\4.07.16\lock\bin\Debug\@lock.pdb
+D:\курсы\4.07.16\lock\obj\Debug\@lock.exe
+D:\курсы\4.07.16\lock\obj\Debug\@lock.pdb

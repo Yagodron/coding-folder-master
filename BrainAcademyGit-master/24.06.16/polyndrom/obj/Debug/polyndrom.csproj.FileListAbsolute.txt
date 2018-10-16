@@ -1,0 +1,6 @@
+D:\курсы\24.06.16\polyndrom\bin\Debug\polyndrom.exe.config
+D:\курсы\24.06.16\polyndrom\bin\Debug\polyndrom.exe
+D:\курсы\24.06.16\polyndrom\bin\Debug\polyndrom.pdb
+D:\курсы\24.06.16\polyndrom\obj\Debug\polyndrom.csprojResolveAssemblyReference.cache
+D:\курсы\24.06.16\polyndrom\obj\Debug\polyndrom.exe
+D:\курсы\24.06.16\polyndrom\obj\Debug\polyndrom.pdb

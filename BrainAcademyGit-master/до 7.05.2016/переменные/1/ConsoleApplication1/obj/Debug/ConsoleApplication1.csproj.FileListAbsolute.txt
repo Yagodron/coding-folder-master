@@ -1,0 +1,12 @@
+c:\users\suprun\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\suprun\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\suprun\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\suprun\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\suprun\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\suprun\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\переменные\1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\переменные\1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\переменные\1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\переменные\1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\переменные\1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\переменные\1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

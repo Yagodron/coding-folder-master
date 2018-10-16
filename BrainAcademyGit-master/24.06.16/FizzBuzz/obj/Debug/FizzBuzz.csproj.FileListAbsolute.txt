@@ -1,0 +1,5 @@
+D:\курсы\24.06.16\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+D:\курсы\24.06.16\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\курсы\24.06.16\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\курсы\24.06.16\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\курсы\24.06.16\FizzBuzz\obj\Debug\FizzBuzz.pdb

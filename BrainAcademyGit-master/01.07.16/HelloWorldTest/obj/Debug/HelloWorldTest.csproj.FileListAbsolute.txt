@@ -1,0 +1,7 @@
+D:\курсы\01.07.16\HelloWorldTest\bin\Debug\HelloWorldTest.dll
+D:\курсы\01.07.16\HelloWorldTest\bin\Debug\HelloWorldTest.pdb
+D:\курсы\01.07.16\HelloWorldTest\obj\Debug\HelloWorldTest.csprojResolveAssemblyReference.cache
+D:\курсы\01.07.16\HelloWorldTest\obj\Debug\HelloWorldTest.dll
+D:\курсы\01.07.16\HelloWorldTest\obj\Debug\HelloWorldTest.pdb
+D:\курсы\01.07.16\HelloWorldTest\bin\Debug\ConsoleApplication4.exe
+D:\курсы\01.07.16\HelloWorldTest\bin\Debug\ConsoleApplication4.pdb

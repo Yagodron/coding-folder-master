@@ -1,0 +1,7 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\VehicleDescriptionAttributeReader\obj\x86\Debug\VehicleDescriptionAttributeReader.csprojResolveAssemblyReference.cache
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\VehicleDescriptionAttributeReader\bin\Debug\VehicleDescriptionAttributeReader.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\VehicleDescriptionAttributeReader\bin\Debug\VehicleDescriptionAttributeReader.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\VehicleDescriptionAttributeReader\bin\Debug\AttributedCarLibrary.dll
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\VehicleDescriptionAttributeReader\bin\Debug\AttributedCarLibrary.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\VehicleDescriptionAttributeReader\obj\x86\Debug\VehicleDescriptionAttributeReader.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\VehicleDescriptionAttributeReader\obj\x86\Debug\VehicleDescriptionAttributeReader.pdb

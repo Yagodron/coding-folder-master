@@ -1,0 +1,12 @@
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\bin\Debug\Airplane_v3.exe.config
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\bin\Debug\Airplane_v3.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\bin\Debug\Airplane_v3.pdb
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\obj\Debug\Airplane_v3.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\obj\Debug\Airplane_v3.pdb
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\Airplane_v3\Airplane_v3\obj\Debug\Airplane_v3.csprojResolveAssemblyReference.cache
+C:\Users\Kost\Documents\Visual Studio 2013\Projects\Airplane_v3\Airplane_v3\bin\Debug\Airplane_v3.exe.config
+C:\Users\Kost\Documents\Visual Studio 2013\Projects\Airplane_v3\Airplane_v3\obj\Debug\Airplane_v3.exe
+C:\Users\Kost\Documents\Visual Studio 2013\Projects\Airplane_v3\Airplane_v3\obj\Debug\Airplane_v3.pdb
+C:\Users\Kost\Documents\Visual Studio 2013\Projects\Airplane_v3\Airplane_v3\bin\Debug\Airplane_v3.exe
+C:\Users\Kost\Documents\Visual Studio 2013\Projects\Airplane_v3\Airplane_v3\bin\Debug\Airplane_v3.pdb
+C:\Users\Kost\Documents\Visual Studio 2013\Projects\Airplane_v3\Airplane_v3\obj\Debug\Airplane_v3.csprojResolveAssemblyReference.cache

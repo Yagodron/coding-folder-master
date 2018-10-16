@@ -1,0 +1,6 @@
+D:\курсы\24.06.16\reverse\bin\Debug\reverse.exe.config
+D:\курсы\24.06.16\reverse\bin\Debug\reverse.exe
+D:\курсы\24.06.16\reverse\bin\Debug\reverse.pdb
+D:\курсы\24.06.16\reverse\obj\Debug\reverse.csprojResolveAssemblyReference.cache
+D:\курсы\24.06.16\reverse\obj\Debug\reverse.exe
+D:\курсы\24.06.16\reverse\obj\Debug\reverse.pdb

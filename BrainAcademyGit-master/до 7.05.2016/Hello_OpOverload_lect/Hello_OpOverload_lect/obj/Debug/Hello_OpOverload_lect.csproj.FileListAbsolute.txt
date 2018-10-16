@@ -1,0 +1,12 @@
+c:\users\win7\documents\visual studio 2013\Projects\Hello_OpOverload_lect\Hello_OpOverload_lect\bin\Debug\Hello_OpOverload_lect.exe.config
+c:\users\win7\documents\visual studio 2013\Projects\Hello_OpOverload_lect\Hello_OpOverload_lect\bin\Debug\Hello_OpOverload_lect.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_OpOverload_lect\Hello_OpOverload_lect\bin\Debug\Hello_OpOverload_lect.pdb
+c:\users\win7\documents\visual studio 2013\Projects\Hello_OpOverload_lect\Hello_OpOverload_lect\obj\Debug\Hello_OpOverload_lect.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_OpOverload_lect\Hello_OpOverload_lect\obj\Debug\Hello_OpOverload_lect.pdb
+C:\Users\win7\documents\visual studio 2013\Projects\Hello_OpOverload_lect\Hello_OpOverload_lect\obj\Debug\Hello_OpOverload_lect.csprojResolveAssemblyReference.cache
+D:\курсы\Hello_OpOverload_lect\Hello_OpOverload_lect\bin\Debug\Hello_OpOverload_lect.exe.config
+D:\курсы\Hello_OpOverload_lect\Hello_OpOverload_lect\obj\Debug\Hello_OpOverload_lect.exe
+D:\курсы\Hello_OpOverload_lect\Hello_OpOverload_lect\obj\Debug\Hello_OpOverload_lect.pdb
+D:\курсы\до 7.05.2016\Hello_OpOverload_lect\Hello_OpOverload_lect\bin\Debug\Hello_OpOverload_lect.exe.config
+D:\курсы\до 7.05.2016\Hello_OpOverload_lect\Hello_OpOverload_lect\obj\Debug\Hello_OpOverload_lect.exe
+D:\курсы\до 7.05.2016\Hello_OpOverload_lect\Hello_OpOverload_lect\obj\Debug\Hello_OpOverload_lect.pdb

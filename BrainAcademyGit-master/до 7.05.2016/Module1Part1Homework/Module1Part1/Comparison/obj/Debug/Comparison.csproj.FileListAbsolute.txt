@@ -1,0 +1,5 @@
+B:\BrainAcademy\Block1\Solution\Module1Part1\Comparison\bin\Debug\Comparison.exe.config
+B:\BrainAcademy\Block1\Solution\Module1Part1\Comparison\bin\Debug\Comparison.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Comparison\bin\Debug\Comparison.pdb
+B:\BrainAcademy\Block1\Solution\Module1Part1\Comparison\obj\Debug\Comparison.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Comparison\obj\Debug\Comparison.pdb

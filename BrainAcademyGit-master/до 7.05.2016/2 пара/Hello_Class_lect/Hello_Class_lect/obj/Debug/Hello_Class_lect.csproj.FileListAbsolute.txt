@@ -1,0 +1,14 @@
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Class_lect\Hello_Class_lect\bin\Debug\Hello_Class_lect.exe.config
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Class_lect\Hello_Class_lect\bin\Debug\Hello_Class_lect.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Class_lect\Hello_Class_lect\bin\Debug\Hello_Class_lect.pdb
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Class_lect\Hello_Class_lect\obj\Debug\Hello_Class_lect.exe
+c:\users\win7\documents\visual studio 2013\Projects\Hello_Class_lect\Hello_Class_lect\obj\Debug\Hello_Class_lect.pdb
+D:\курсы\2 пара\Hello_Class_lect\Hello_Class_lect\bin\Debug\Hello_Class_lect.exe.config
+D:\курсы\2 пара\Hello_Class_lect\Hello_Class_lect\obj\Debug\Hello_Class_lect.exe
+D:\курсы\2 пара\Hello_Class_lect\Hello_Class_lect\obj\Debug\Hello_Class_lect.pdb
+D:\курсы\2 пара\Hello_Class_lect\Hello_Class_lect\bin\Debug\Hello_Class_lect.exe
+D:\курсы\2 пара\Hello_Class_lect\Hello_Class_lect\bin\Debug\Hello_Class_lect.pdb
+D:\курсы\2 пара\Hello_Class_lect\Hello_Class_lect\obj\Debug\Hello_Class_lect.csprojResolveAssemblyReference.cache
+D:\курсы\до 7.05.2016\2 пара\Hello_Class_lect\Hello_Class_lect\bin\Debug\Hello_Class_lect.exe.config
+D:\курсы\до 7.05.2016\2 пара\Hello_Class_lect\Hello_Class_lect\obj\Debug\Hello_Class_lect.exe
+D:\курсы\до 7.05.2016\2 пара\Hello_Class_lect\Hello_Class_lect\obj\Debug\Hello_Class_lect.pdb

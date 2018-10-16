@@ -1,0 +1,6 @@
+D:\курсы\8.07.16\APM_factorial\bin\Debug\APM_factorial.exe.config
+D:\курсы\8.07.16\APM_factorial\obj\Debug\APM_factorial.csprojResolveAssemblyReference.cache
+D:\курсы\8.07.16\APM_factorial\bin\Debug\APM_factorial.exe
+D:\курсы\8.07.16\APM_factorial\bin\Debug\APM_factorial.pdb
+D:\курсы\8.07.16\APM_factorial\obj\Debug\APM_factorial.exe
+D:\курсы\8.07.16\APM_factorial\obj\Debug\APM_factorial.pdb

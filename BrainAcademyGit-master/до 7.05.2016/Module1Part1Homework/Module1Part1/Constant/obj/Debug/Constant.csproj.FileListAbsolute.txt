@@ -1,0 +1,6 @@
+C:\Users\a.naumenko\Desktop\Обучение\Solution\Module1Part1\Constant\bin\Debug\Constant.exe.config
+B:\BrainAcademy\Block1\Solution\Module1Part1\Constant\bin\Debug\Constant.exe.config
+B:\BrainAcademy\Block1\Solution\Module1Part1\Constant\bin\Debug\Constant.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Constant\bin\Debug\Constant.pdb
+B:\BrainAcademy\Block1\Solution\Module1Part1\Constant\obj\Debug\Constant.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Constant\obj\Debug\Constant.pdb

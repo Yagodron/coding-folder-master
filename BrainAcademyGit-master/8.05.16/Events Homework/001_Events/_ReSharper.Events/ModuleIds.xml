@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="EA53D588-ABB7-4630-B11B-60480C6C6376" ModuleId="001_Events" />
+  <Module PersistentId="8FEACE47-D562-42FE-962A-EEB7DD182B00" ModuleId="005_Events" />
+  <Module PersistentId="9F345B1E-E39D-4C3D-9711-33E8CC777F39" ModuleId="006_Events" />
+  <Module PersistentId="9B37676F-ECFA-49D2-8808-1DE38C3AA498" ModuleId="002_Events" />
+  <Module PersistentId="5355423A-0022-4860-8FBD-F9387E7DC987" ModuleId="003_Events" />
+  <Module PersistentId="28A60401-B5FB-4711-BF1A-C7F4CFC7ACB3" ModuleId="004_Events" />
+</Modules>

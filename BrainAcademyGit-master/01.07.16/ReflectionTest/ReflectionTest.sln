@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionTest", "ReflectionTest.csproj", "{78BE7F02-59D3-4469-ACFE-20097D7FB5E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "..\..\29.06.16\Reflection\Reflection.csproj", "{CD3F547D-029C-4056-8659-978FCFE97BBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78BE7F02-59D3-4469-ACFE-20097D7FB5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78BE7F02-59D3-4469-ACFE-20097D7FB5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78BE7F02-59D3-4469-ACFE-20097D7FB5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78BE7F02-59D3-4469-ACFE-20097D7FB5E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3F547D-029C-4056-8659-978FCFE97BBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3F547D-029C-4056-8659-978FCFE97BBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3F547D-029C-4056-8659-978FCFE97BBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3F547D-029C-4056-8659-978FCFE97BBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

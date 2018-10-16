@@ -1,0 +1,5 @@
+B:\BrainAcademy\Block1\Solution\Module1Part1\Increments\bin\Debug\Increments.exe.config
+B:\BrainAcademy\Block1\Solution\Module1Part1\Increments\bin\Debug\Increments.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Increments\bin\Debug\Increments.pdb
+B:\BrainAcademy\Block1\Solution\Module1Part1\Increments\obj\Debug\Increments.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Increments\obj\Debug\Increments.pdb

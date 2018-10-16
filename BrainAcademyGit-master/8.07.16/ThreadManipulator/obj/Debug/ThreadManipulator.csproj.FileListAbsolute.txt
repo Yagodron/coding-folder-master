@@ -1,0 +1,6 @@
+D:\курсы\8.07.16\ThreadManipulator\bin\Debug\ThreadManipulator.exe.config
+D:\курсы\8.07.16\ThreadManipulator\obj\Debug\ThreadManipulator.csprojResolveAssemblyReference.cache
+D:\курсы\8.07.16\ThreadManipulator\bin\Debug\ThreadManipulator.exe
+D:\курсы\8.07.16\ThreadManipulator\bin\Debug\ThreadManipulator.pdb
+D:\курсы\8.07.16\ThreadManipulator\obj\Debug\ThreadManipulator.exe
+D:\курсы\8.07.16\ThreadManipulator\obj\Debug\ThreadManipulator.pdb

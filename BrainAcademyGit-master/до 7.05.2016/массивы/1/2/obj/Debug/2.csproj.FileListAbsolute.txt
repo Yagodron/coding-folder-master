@@ -1,0 +1,6 @@
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\циклы\2\2\bin\Debug\2.exe.config
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\циклы\2\2\bin\Debug\2.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\циклы\2\2\bin\Debug\2.pdb
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\циклы\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\циклы\2\2\obj\Debug\2.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\циклы\2\2\obj\Debug\2.pdb

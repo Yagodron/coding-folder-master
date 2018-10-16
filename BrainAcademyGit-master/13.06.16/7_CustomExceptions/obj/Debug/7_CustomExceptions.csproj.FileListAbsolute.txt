@@ -1,0 +1,6 @@
+D:\курсы\13.06.16\7_CustomExceptions\bin\Debug\7_CustomExceptions.exe.config
+D:\курсы\13.06.16\7_CustomExceptions\bin\Debug\7_CustomExceptions.exe
+D:\курсы\13.06.16\7_CustomExceptions\bin\Debug\7_CustomExceptions.pdb
+D:\курсы\13.06.16\7_CustomExceptions\obj\Debug\7_CustomExceptions.csprojResolveAssemblyReference.cache
+D:\курсы\13.06.16\7_CustomExceptions\obj\Debug\7_CustomExceptions.exe
+D:\курсы\13.06.16\7_CustomExceptions\obj\Debug\7_CustomExceptions.pdb

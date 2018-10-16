@@ -1,0 +1,5 @@
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\операторы\1\1\bin\Debug\1.exe.config
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\операторы\1\1\bin\Debug\1.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\операторы\1\1\bin\Debug\1.pdb
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\операторы\1\1\obj\Debug\1.exe
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\операторы\1\1\obj\Debug\1.pdb

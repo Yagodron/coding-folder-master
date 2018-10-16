@@ -1,0 +1,30 @@
+﻿<Window x:Class="BooksHierarchy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:self="clr-namespace:BooksHierarchy"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TreeView Name="booksHierarchy">
+            <TreeView.Resources>
+                <HierarchicalDataTemplate DataType="{x:Type self:Author}" ItemsSource="{Binding Years}">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                    </StackPanel>
+                </HierarchicalDataTemplate>
+                <HierarchicalDataTemplate DataType="{x:Type self:Year}" ItemsSource="{Binding Books}">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                        <TextBlock Text=" ["/>
+                        <TextBlock Text="{Binding Books.Count}"/>
+                        <TextBlock Text="]"/>
+                    </StackPanel>
+                </HierarchicalDataTemplate>
+                <DataTemplate DataType="{x:Type self:Book}">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding Name}" />
+                    </StackPanel>
+                </DataTemplate>
+            </TreeView.Resources>
+        </TreeView>
+    </Grid>
+</Window>

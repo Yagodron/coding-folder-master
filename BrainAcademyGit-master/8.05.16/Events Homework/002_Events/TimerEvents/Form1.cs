@@ -1,0 +1,61 @@
+﻿using System;
+using System.Windows.Forms;
+
+namespace TimerEvents
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+
+            // Установка параметров Таймера.
+            InitializeTimer();            
+        }
+
+        
+        // Обработчик события Тиков Таймера
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            if (progressBar1.Value < 100)
+                progressBar1.Value++;
+            else
+                progressBar1.Value = 0;
+          
+            if (progressBar2.Value < 100)
+                progressBar2.Value++;
+            else 
+                progressBar2.Value = 0;
+        }
+
+        private void InitializeTimer()
+        {
+            // 1 second = 1000 mlsec.
+            // 1000 mlsec. - 1 тик в секунду. 100 mlsec. - 10 тиков в секунду.
+            // 10 mlsec. - 100 тиков в секунду. 1 mlsec. - 1000 тиков в секунду.
+            // Интервал генерации события Таймера.
+            timer1.Interval = 100; 
+
+            // Запуск Таймера.
+            timer1.Start();
+
+            // Статус Таймера.
+            timer1.Enabled = false;
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = true;
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            timer1.Enabled = false;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}

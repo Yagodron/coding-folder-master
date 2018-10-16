@@ -1,0 +1,5 @@
+F:\CBS\C#\CS_Essential_RU\013_Events\001_Events\Events4\bin\Release\Events4.exe
+F:\CBS\C#\CS_Essential_RU\013_Events\001_Events\Events4\bin\Release\Events4.pdb
+F:\CBS\C#\CS_Essential_RU\013_Events\001_Events\Events4\obj\x86\Release\004_Events.csprojResolveAssemblyReference.cache
+F:\CBS\C#\CS_Essential_RU\013_Events\001_Events\Events4\obj\x86\Release\Events4.exe
+F:\CBS\C#\CS_Essential_RU\013_Events\001_Events\Events4\obj\x86\Release\Events4.pdb

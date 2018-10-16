@@ -1,0 +1,23 @@
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Delegates\bin\Debug\Hello_Delegates.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Delegates\bin\Debug\Hello_Delegates.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Delegates\bin\Debug\Hello_Delegates.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Delegates\obj\Debug\Hello_Delegates.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Delegates\obj\Debug\Hello_Delegates.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\csharp\tmp\Hello_Exception_stud\Hello_Delegates\obj\Debug\Hello_Delegates_lect.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp\Hello_Delegates\bin\Debug\Hello_Delegates.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp\Hello_Delegates\obj\Debug\Hello_Delegates.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp\Hello_Delegates\obj\Debug\Hello_Delegates.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\bin\Debug\Hello_Delegates.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\obj\Debug\Hello_Delegates.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\obj\Debug\Hello_Delegates.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\bin\Debug\Hello_Delegates.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\bin\Debug\Hello_Delegates.pdb
+C:\Users\win7\Documents\Visual Studio 2013\Projects\tmp_220715\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\obj\Debug\Hello_Delegates_lect.csprojResolveAssemblyReference.cache
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Delegates_Events_Lambdas_lect_v1\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\bin\Debug\Hello_Delegates.exe.config
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Delegates_Events_Lambdas_lect_v1\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\obj\Debug\Hello_Delegates.exe
+C:\Users\win7\Documents\Visual Studio 2013\Projects\Hello_Delegates_Events_Lambdas_lect_v1\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\obj\Debug\Hello_Delegates.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\bin\Debug\Hello_Delegates.exe.config
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\bin\Debug\Hello_Delegates.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\bin\Debug\Hello_Delegates.pdb
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\obj\Debug\Hello_Delegates.exe
+D:\naukma_2014_2015\Brainbasket\BRAINBASKET\Group_09032016\280316_9\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates_Events_Lambdas_lect\Hello_Delegates\obj\Debug\Hello_Delegates.pdb

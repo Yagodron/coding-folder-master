@@ -1,0 +1,7 @@
+C:\Users\suprun\Documents\Visual Studio 2012\Projects\массивы\2\2\bin\Debug\2.exe.config
+F:\все\курсы\массивы\2\2\bin\Debug\2.exe.config
+F:\все\курсы\массивы\2\2\bin\Debug\2.exe
+F:\все\курсы\массивы\2\2\bin\Debug\2.pdb
+F:\все\курсы\массивы\2\2\obj\Debug\2.csprojResolveAssemblyReference.cache
+F:\все\курсы\массивы\2\2\obj\Debug\2.exe
+F:\все\курсы\массивы\2\2\obj\Debug\2.pdb

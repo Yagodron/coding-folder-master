@@ -1,0 +1,6 @@
+B:\BrainAcademy\Block1\Solution\Module1Part1\Assignement\bin\Debug\Assignement.exe.config
+B:\BrainAcademy\Block1\Solution\Module1Part1\Assignement\bin\Debug\Assignement.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Assignement\bin\Debug\Assignement.pdb
+B:\BrainAcademy\Block1\Solution\Module1Part1\Assignement\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+B:\BrainAcademy\Block1\Solution\Module1Part1\Assignement\obj\Debug\Assignement.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Assignement\obj\Debug\Assignement.pdb

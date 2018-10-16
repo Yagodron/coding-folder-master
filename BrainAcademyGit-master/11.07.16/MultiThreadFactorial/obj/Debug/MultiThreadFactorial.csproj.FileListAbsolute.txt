@@ -1,0 +1,5 @@
+D:\курсы\11.07.16\MultiThreadFactorial\bin\Debug\MultiThreadFactorial.exe.config
+D:\курсы\11.07.16\MultiThreadFactorial\bin\Debug\MultiThreadFactorial.exe
+D:\курсы\11.07.16\MultiThreadFactorial\bin\Debug\MultiThreadFactorial.pdb
+D:\курсы\11.07.16\MultiThreadFactorial\obj\Debug\MultiThreadFactorial.exe
+D:\курсы\11.07.16\MultiThreadFactorial\obj\Debug\MultiThreadFactorial.pdb

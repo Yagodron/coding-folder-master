@@ -1,0 +1,21 @@
+﻿using System;
+using System.IO;
+
+namespace CSharp_Net_module1_3_1_lab
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            CatchExceptionClass cec = new CatchExceptionClass();
+            cec.CatchExceptionMethod();
+
+            // 11) Make some unhandled exception and study Visual Studio debugger report – 
+            // read description and find the reason of exception
+            string unhandled_s = null;
+            int unhandled_i = int.Parse(unhandled_s);
+            Console.ReadKey();
+
+        }
+    }
+}

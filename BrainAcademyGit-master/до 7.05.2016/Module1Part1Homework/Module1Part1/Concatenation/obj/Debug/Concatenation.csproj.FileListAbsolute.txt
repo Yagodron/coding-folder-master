@@ -1,0 +1,5 @@
+B:\BrainAcademy\Block1\Solution\Module1Part1\Concatenation\bin\Debug\Concatenation.exe.config
+B:\BrainAcademy\Block1\Solution\Module1Part1\Concatenation\bin\Debug\Concatenation.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Concatenation\bin\Debug\Concatenation.pdb
+B:\BrainAcademy\Block1\Solution\Module1Part1\Concatenation\obj\Debug\Concatenation.exe
+B:\BrainAcademy\Block1\Solution\Module1Part1\Concatenation\obj\Debug\Concatenation.pdb

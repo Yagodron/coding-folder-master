@@ -1,0 +1,6 @@
+D:\курсы\06.06.2016\recktangle\bin\Debug\recktangle.exe.config
+D:\курсы\06.06.2016\recktangle\obj\Debug\recktangle.csprojResolveAssemblyReference.cache
+D:\курсы\06.06.2016\recktangle\bin\Debug\recktangle.exe
+D:\курсы\06.06.2016\recktangle\bin\Debug\recktangle.pdb
+D:\курсы\06.06.2016\recktangle\obj\Debug\recktangle.exe
+D:\курсы\06.06.2016\recktangle\obj\Debug\recktangle.pdb

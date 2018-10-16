@@ -1,0 +1,6 @@
+D:\курсы\24.06.16\GetEnumerator\bin\Debug\GetEnumerator.exe.config
+D:\курсы\24.06.16\GetEnumerator\bin\Debug\GetEnumerator.exe
+D:\курсы\24.06.16\GetEnumerator\bin\Debug\GetEnumerator.pdb
+D:\курсы\24.06.16\GetEnumerator\obj\Debug\GetEnumerator.csprojResolveAssemblyReference.cache
+D:\курсы\24.06.16\GetEnumerator\obj\Debug\GetEnumerator.exe
+D:\курсы\24.06.16\GetEnumerator\obj\Debug\GetEnumerator.pdb
